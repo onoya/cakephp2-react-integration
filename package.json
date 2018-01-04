@@ -5,6 +5,10 @@
   "repository": "git@github.com:onoya/cakephp2-react-integration.git",
   "author": "Naoya Ono <ono.naoyaa@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack -p",
+    "build-dev": "webpack -d --watch"
+  },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
