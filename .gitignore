@@ -28,3 +28,7 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# NodeJS files #
+/node_modules
+yarn-error.log
