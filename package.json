@@ -1,0 +1,8 @@
+{
+  "name": "cakephp2-react-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:onoya/cakephp2-react-integration.git",
+  "author": "Naoya Ono <ono.naoyaa@gmail.com>",
+  "license": "MIT"
+}
